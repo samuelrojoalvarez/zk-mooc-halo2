@@ -1,8 +1,7 @@
 # zk-mooc-halo2
 
 
-This repository provides skeleton code to build circuits for the "Category 4: Circuit Development in Halo2-ce"
-track under https://zk-hacking.org.
+This repository provides skeleton code to build circuits for the "Category 4: Circuit Development in Halo2-ce".
 
 The repository consists of 3 member crates, specifically `blake2f-circuit`, `ripemd160-circuit` and `sha2-256-circuit`,
 to configure constraints for verifying the input-output relationships for each of the hash functions. These hash
